@@ -1,0 +1,4 @@
+/tps
+/time set day
+/stop
+/time set day
