@@ -70,7 +70,6 @@ public class plasticcraft {
 
     public static final DeferredItem<BlockItem> PLASTIC_BLOCK_RED_ITEM = ITEMS.register("plastic_block_red",
             () -> new BlockItem(PLASTIC_BLOCK_RED.get(), new Item.Properties()));
-
     // 注册创意标签页
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> PLASTIC_TAB = CREATIVE_MODE_TABS.register("plastic_tab",
             () -> CreativeModeTab.builder()

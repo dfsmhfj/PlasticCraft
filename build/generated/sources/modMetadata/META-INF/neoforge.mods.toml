@@ -17,7 +17,7 @@ license = "MIT"
 # The modid of the mod
 modId = "plasticcraft" #mandatory
 # The version number of the mod
-version = "0.0.1Beta" #mandatory
+version = "0.0.1-Alpha" #mandatory
 # A display name for the mod
 displayName = "PlasticCraft" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.neoforge.net/docs/misc/updatechecker/

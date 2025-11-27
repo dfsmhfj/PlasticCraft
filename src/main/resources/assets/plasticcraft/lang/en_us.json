@@ -1,7 +1,7 @@
 {
-  "block.plasticcraft.plastic_block_green": "Plastic Block_Green",
-  "block.plasticcraft.plastic_block_white": "Plastic Block_White",
-  "block.plasticcraft.plastic_block_red": "Plastic Block_Red",
+  "block.plasticcraft.plastic_block_green": "Green Plastic Block",
+  "block.plasticcraft.plastic_block_white": "White Plastic Block",
+  "block.plasticcraft.plastic_block_red": "Red Plastic Block",
   "block.plasticcraft.plastic_ore": "Plastic Ore",
   "itemGroup.plasticcraft.plastic_tab": "Plastic Craft"
 }
